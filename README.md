@@ -7,3 +7,4 @@
 5. Find the elements that appear more than half the time **Link**: https://leetcode.com/problems/majority-element/
 6. Rotate the array to the right **Link**: https://leetcode.com/problems/rotate-array/
 7. The best time to buy and sell stocks **Link**: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+8. The best time to buy and sell stocks || **Link**: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
