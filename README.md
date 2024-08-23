@@ -9,3 +9,4 @@
 7. The best time to buy and sell stocks **Link**: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 8. The best time to buy and sell stocks || **Link**: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 9. Jumping game **Link**: https://leetcode.com/problems/jump-game/
+10. Jumping game || **Link**: https://leetcode.com/problems/jump-game-ii/
