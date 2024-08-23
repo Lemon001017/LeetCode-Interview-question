@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class JumpGameTwo {
     /*
         题目: 给定一个长度为 n 的 0 索引整数数组 nums。初始位置为 nums[0]。
@@ -16,7 +18,6 @@ public class JumpGameTwo {
                 end = maxPosition;
             }
         }
-
         return steps;
     }
 

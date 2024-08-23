@@ -10,3 +10,4 @@
 8. The best time to buy and sell stocks || **Link**: https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 9. Jumping game **Link**: https://leetcode.com/problems/jump-game/
 10. Jumping game || **Link**: https://leetcode.com/problems/jump-game-ii/
+11. Calculate the maximum H-index **Link**: https://leetcode.com/problems/h-index/
