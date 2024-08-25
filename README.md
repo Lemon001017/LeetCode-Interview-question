@@ -11,3 +11,4 @@
 9. Jumping game **Link**: https://leetcode.com/problems/jump-game/
 10. Jumping game || **Link**: https://leetcode.com/problems/jump-game-ii/
 11. Calculate the maximum H-index **Link**: https://leetcode.com/problems/h-index/
+12. O(1) time to insert, remove, and fetch random elements **Link**: https://leetcode.com/problems/insert-delete-getrandom-o1/
