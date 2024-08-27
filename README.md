@@ -1,6 +1,7 @@
 # LeetCode-Interview-question
 
 ## Array
+
 1. Merge two sorted arrays  **Link**: https://leetcode.com/problems/merge-sorted-array/
 2. Remove element **Link**: https://leetcode.com/problems/remove-element/
 3. Remove duplicates from a sorted array | **Link**: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
@@ -18,5 +19,7 @@
 13. A product of arrays other than itself **Link**: https://leetcode.com/problems/product-of-array-except-self/
 
 ## Dynamic Planning
+
 1. Climbing stairs **Link**: https://leetcode.com/problems/climbing-stairs/
 2. Loot house **Link**: https://leetcode.com/problems/house-robber/
+3. Word break **Link**: https://leetcode.com/problems/word-break/
