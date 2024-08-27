@@ -19,3 +19,4 @@
 
 ## Dynamic Planning
 1. Climbing stairs **Link**: https://leetcode.com/problems/climbing-stairs/
+2. Loot house **Link**: https://leetcode.com/problems/house-robber/
