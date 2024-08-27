@@ -1,4 +1,4 @@
-import java.util.Arrays;
+package ArrayAndString;
 
 public class JumpGameTwo {
     /*

@@ -1,3 +1,5 @@
+package ArrayAndString;
+
 public class RemoveDuplicates {
     /*
         题目:给你一个非严格递增排列的数组 nums ，请你原地删除重复出现的元素，使每个元素只出现一次 ，返回删除后数组的新长度。

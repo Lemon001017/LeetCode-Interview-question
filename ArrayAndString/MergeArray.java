@@ -1,3 +1,5 @@
+package ArrayAndString;
+
 import java.util.Arrays;
 
 public class MergeArray {

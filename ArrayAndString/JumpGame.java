@@ -1,3 +1,5 @@
+package ArrayAndString;
+
 public class JumpGame {
     /*
         题目: 给你一个非负整数数组 nums ，你最初位于数组的第一个下标。数组中的每个元素代表你在该位置可以跳跃的最大长度。
