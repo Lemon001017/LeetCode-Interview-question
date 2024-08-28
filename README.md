@@ -24,3 +24,4 @@ d
 2. Loot house **Link**: https://leetcode.com/problems/house-robber/
 3. Word break **Link**: https://leetcode.com/problems/word-break/
 4. Coin Change **Link**: https://leetcode.com/problems/coin-change/
+5. Length of longest increasing subsequence **Link**: https://leetcode.com/problems/longest-increasing-subsequence/
