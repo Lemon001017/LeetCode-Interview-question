@@ -26,3 +26,4 @@
 4. Coin Change **Link**: https://leetcode.com/problems/coin-change/
 5. Length of longest increasing subsequence **Link**: https://leetcode.com/problems/longest-increasing-subsequence/
 6. Triangular minimum path sum **Link**: https://leetcode.com/problems/triangle/
+7. Minimum sum of paths **Link**: https://leetcode.com/problems/minimum-path-sum/
