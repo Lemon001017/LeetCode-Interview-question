@@ -19,9 +19,10 @@
 13. A product of arrays other than itself **Link**: https://leetcode.com/problems/product-of-array-except-self/
 
 ## Dynamic Planning
-d
+
 1. Climbing stairs **Link**: https://leetcode.com/problems/climbing-stairs/
 2. Loot house **Link**: https://leetcode.com/problems/house-robber/
 3. Word break **Link**: https://leetcode.com/problems/word-break/
 4. Coin Change **Link**: https://leetcode.com/problems/coin-change/
 5. Length of longest increasing subsequence **Link**: https://leetcode.com/problems/longest-increasing-subsequence/
+6. Triangular minimum path sum **Link**: https://leetcode.com/problems/triangle/
