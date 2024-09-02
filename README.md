@@ -21,6 +21,7 @@
 ## Double Pointer
 
 1. Verify the palindromes https://leetcode.com/problems/valid-palindrome/
+2. Judge subsequence https://leetcode.com/problems/is-subsequence/
 
 ## Dynamic Planning
 
