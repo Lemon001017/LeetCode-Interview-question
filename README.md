@@ -18,6 +18,10 @@
 14. Gas station https://leetcode.com/problems/gas-station/
 15. Hand out the candies https://leetcode.com/problems/candy/
 
+## Double Pointer
+
+1. Verify the palindromes https://leetcode.com/problems/valid-palindrome/
+
 ## Dynamic Planning
 
 1. Climbing stairs https://leetcode.com/problems/climbing-stairs/
