@@ -28,6 +28,7 @@
 ## Linked List
 
 1. Circularly linked list https://leetcode.com/problems/linked-list-cycle/
+2. Add two numbers https://leetcode.com/problems/add-two-numbers/
 
 ## Dynamic Planning
 
