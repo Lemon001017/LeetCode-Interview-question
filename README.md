@@ -33,7 +33,9 @@
 3. Merge two ordered lists https://leetcode.com/problems/merge-two-sorted-lists/
 
 ## Binary Tree
+
 1. Maximum depth of a binary tree https://leetcode.com/problems/maximum-depth-of-binary-tree/
+2. The same tree or not https://leetcode.com/problems/same-tree/
 
 ## Dynamic Planning
 
