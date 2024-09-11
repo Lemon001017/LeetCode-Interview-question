@@ -30,6 +30,7 @@
 
 1. Circularly linked list https://leetcode.com/problems/linked-list-cycle/
 2. Add two numbers https://leetcode.com/problems/add-two-numbers/
+3. Merge two ordered lists https://leetcode.com/problems/merge-two-sorted-lists/
 
 ## Dynamic Planning
 
