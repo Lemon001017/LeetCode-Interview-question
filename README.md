@@ -32,6 +32,9 @@
 2. Add two numbers https://leetcode.com/problems/add-two-numbers/
 3. Merge two ordered lists https://leetcode.com/problems/merge-two-sorted-lists/
 
+## Binary Tree
+1. Maximum depth of a binary tree https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
 ## Dynamic Planning
 
 1. Climbing stairs https://leetcode.com/problems/climbing-stairs/
