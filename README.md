@@ -37,6 +37,7 @@
 1. Maximum depth of a binary tree https://leetcode.com/problems/maximum-depth-of-binary-tree/
 2. The same tree or not https://leetcode.com/problems/same-tree/
 3. Flip the binary tree https://leetcode.com/problems/invert-binary-tree/
+4. symmetric binary tree https://leetcode.com/problems/symmetric-tree/
 
 ## Dynamic Planning
 
