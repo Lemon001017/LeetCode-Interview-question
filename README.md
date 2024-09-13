@@ -29,6 +29,7 @@
 ## Hash Table
 
 1. Ransom letter https://leetcode.com/problems/ransom-note/
+2. Isomorphic string https://leetcode.com/problems/isomorphic-strings/
 
 ## Linked List
 
