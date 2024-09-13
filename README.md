@@ -26,6 +26,10 @@
 2. Judge subsequence https://leetcode.com/problems/is-subsequence/
 3. Sum of two numbers II - Input sorted array https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
 
+## Hash Table
+
+1. Ransom letter https://leetcode.com/problems/ransom-note/
+
 ## Linked List
 
 1. Circularly linked list https://leetcode.com/problems/linked-list-cycle/
