@@ -21,6 +21,7 @@
 17. A number that appears only once https://leetcode.com/problems/single-number/
 18. Roman numerals to whole numbers https://leetcode.com/problems/roman-to-integer/
 19. Integers to Roman numerals https://leetcode.com/problems/integer-to-roman/
+20. The length of the last word https://leetcode.com/problems/length-of-last-word/
 
 ## Double Pointer
 
