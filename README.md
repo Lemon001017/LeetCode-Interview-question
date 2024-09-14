@@ -19,6 +19,7 @@
 15. Hand out the candies https://leetcode.com/problems/candy/
 16. Catch rainwater https://leetcode.com/problems/trapping-rain-water/
 17. A number that appears only once https://leetcode.com/problems/single-number/
+18. Roman numerals to whole numbers https://leetcode.com/problems/roman-to-integer/
 
 ## Double Pointer
 
