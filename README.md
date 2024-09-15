@@ -24,6 +24,7 @@
 20. The length of the last word https://leetcode.com/problems/length-of-last-word/
 21. Longest common prefix https://leetcode.com/problems/longest-common-prefix/
 22. Reverse words in a string https://leetcode.com/problems/reverse-words-in-a-string/
+23. Find the subscript of the first match in the string https://leetcode.com/problems/implement-strstr/
 
 ## Double Pointer
 
