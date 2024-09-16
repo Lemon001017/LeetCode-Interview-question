@@ -25,6 +25,7 @@
 21. Longest common prefix https://leetcode.com/problems/longest-common-prefix/
 22. Reverse words in a string https://leetcode.com/problems/reverse-words-in-a-string/
 23. Find the subscript of the first match in the string https://leetcode.com/problems/implement-strstr/
+24. z-transform https://leetcode.com/problems/zigzag-conversion/
 
 ## Double Pointer
 
