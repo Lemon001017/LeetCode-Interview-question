@@ -39,6 +39,8 @@
 
 1. 赎金信 https://leetcode.com/problems/ransom-note/
 2. 同构字符串 https://leetcode.com/problems/isomorphic-strings/
+3. 单词规律 https://leetcode.com/problems/word-pattern/
+4. 有效的字母异位词 https://leetcode.com/problems/valid-anagram/
 
 ## 链表
 
