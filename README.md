@@ -42,6 +42,7 @@
 3. 单词规律 https://leetcode.com/problems/word-pattern/
 4. 有效的字母异位词 https://leetcode.com/problems/valid-anagram/
 5. 字母异位词分组 https://leetcode.com/problems/group-anagrams/
+6. 两数之和 https://leetcode.com/problems/two-sum/
 
 ## 链表
 
