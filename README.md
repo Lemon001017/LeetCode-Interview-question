@@ -45,6 +45,7 @@
 6. 两数之和 https://leetcode.com/problems/two-sum/
 7. 快乐数 https://leetcode.com/problems/happy-number/
 8. 存在重复元素 II https://leetcode.com/problems/contains-duplicate-ii/
+9. 最长连续序列 https://leetcode.com/problems/longest-consecutive-sequence/
 
 ## 链表
 
