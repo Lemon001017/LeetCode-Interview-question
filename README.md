@@ -56,6 +56,7 @@
 ## 栈
 
 1. 有效的括号 https://leetcode.com/problems/valid-parentheses/
+2. 简化路径 https://leetcode.com/problems/simplify-path/
 
 ## 二叉树
 
