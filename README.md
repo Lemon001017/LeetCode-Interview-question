@@ -53,6 +53,10 @@
 2. 两数相加 https://leetcode.com/problems/add-two-numbers/
 3. 合并两个有序链表 https://leetcode.com/problems/merge-two-sorted-lists/
 
+## 栈
+
+1. 有效的括号 https://leetcode.com/problems/valid-parentheses/
+
 ## 二叉树
 
 1. 二叉树的最大深度 https://leetcode.com/problems/maximum-depth-of-binary-tree/
