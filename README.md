@@ -57,6 +57,7 @@
 
 1. 有效的括号 https://leetcode.com/problems/valid-parentheses/
 2. 简化路径 https://leetcode.com/problems/simplify-path/
+3. 最小栈 https://leetcode.com/problems/min-stack/
 
 ## 二叉树
 
