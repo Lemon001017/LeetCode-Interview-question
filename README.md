@@ -38,6 +38,7 @@
 ## 滑动窗口
 
 1. 长度最小的子数组 https://leetcode.com/problems/minimum-size-subarray-sum/
+2. 无重复字符的最长子串 https://leetcode.com/problems/longest-substring-without-repeating-characters/
 
 ## 哈希表
 
