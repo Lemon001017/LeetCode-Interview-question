@@ -83,3 +83,4 @@
 7. 最小路径和 https://leetcode.com/problems/minimum-path-sum/
 8. 杨辉三角 https://leetcode.com/problems/pascals-triangle/
 9. 最长回文子串 https://leetcode.com/problems/longest-palindrom
+10. 回文子串 https://leetcode.com/problems/palindrom
