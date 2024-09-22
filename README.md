@@ -84,3 +84,4 @@
 8. 杨辉三角 https://leetcode.com/problems/pascals-triangle/
 9. 最长回文子串 https://leetcode.com/problems/longest-palindrom
 10. 回文子串 https://leetcode.com/problems/palindrom
+11. 最长公共子序列 https://leetcode.com/problems/longest-common-subsequence/
