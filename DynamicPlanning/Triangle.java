@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Triangle {
+    /**
+     * 题目: 给定一个非负整数 numRows，生成「杨辉三角」的前 numRows 行。
+     */
     public static List<List<Integer>> generate(int n) {
         List<List<Integer>> ans = new ArrayList<>();
         for (int i = 0; i < n; i++) {
