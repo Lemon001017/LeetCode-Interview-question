@@ -52,6 +52,7 @@
 7. 快乐数 https://leetcode.com/problems/happy-number/
 8. 存在重复元素 II https://leetcode.com/problems/contains-duplicate-ii/
 9. 最长连续序列 https://leetcode.com/problems/longest-consecutive-sequence/
+10. 和为 K 的子数组 https://leetcode.com/problems/continuous-subarray-sum/
 
 ## 链表
 
