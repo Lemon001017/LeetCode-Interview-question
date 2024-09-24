@@ -5,7 +5,6 @@ import java.util.Map;
 
 public class SubarraySum {
     public static int subarraySum(int[] nums, int k) {
-        int n = nums.length;
         Map<Integer, Integer> map = new HashMap<>();
         map.put(0, 1);
         int preSum = 0, ans = 0;
