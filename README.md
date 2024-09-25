@@ -72,6 +72,7 @@
 2. 相同的树 https://leetcode.com/problems/same-tree/
 3. 翻转二叉树 https://leetcode.com/problems/invert-binary-tree/
 4. 对称二叉树 https://leetcode.com/problems/symmetric-tree/
+5. 二叉树的中序遍历 https://leetcode.com/problems/binary-tree-inorder-traversal/
 
 ## 动态规划
 
