@@ -73,7 +73,8 @@
 3. 翻转二叉树 https://leetcode.com/problems/invert-binary-tree/
 4. 对称二叉树 https://leetcode.com/problems/symmetric-tree/
 5. 二叉树的中序遍历 https://leetcode.com/problems/binary-tree-inorder-traversal/
-6. 二叉树的直径
+6. 二叉树的直径 https://leetcode.com/problems/diameter-of-binary-tree/
+7. 二叉树的右视图 https://leetcode.com/problems/binary-tree-right-side-view/
 
 ## 动态规划
 
