@@ -75,6 +75,7 @@
 5. 二叉树的中序遍历 https://leetcode.com/problems/binary-tree-inorder-traversal/
 6. 二叉树的直径 https://leetcode.com/problems/diameter-of-binary-tree/
 7. 二叉树的右视图 https://leetcode.com/problems/binary-tree-right-side-view/
+8. 二叉树中的最大路径和 https://leetcode.com/problems/binary-tree-maximum-path-sum/
 
 ## 动态规划
 
