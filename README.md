@@ -69,6 +69,7 @@
 ## 堆
 
 1. 前 K 个高频元素 https://leetcode.com/problems/top-k-frequent-elements/
+2. 数组中的第K个最大元素 https://leetcode.com/problems/kth-largest-element-in-an-array/
 
 ## 二叉树
 
