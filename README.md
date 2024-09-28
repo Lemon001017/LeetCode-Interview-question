@@ -66,6 +66,10 @@
 2. 简化路径 https://leetcode.com/problems/simplify-path/
 3. 最小栈 https://leetcode.com/problems/min-stack/
 
+## 堆
+
+1. 前 K 个高频元素 https://leetcode.com/problems/top-k-frequent-elements/
+
 ## 二叉树
 
 1. 二叉树的最大深度 https://leetcode.com/problems/maximum-depth-of-binary-tree/
