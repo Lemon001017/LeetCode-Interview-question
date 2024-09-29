@@ -27,6 +27,10 @@
 23. 找出字符串中第一个匹配项的下标 https://leetcode.com/problems/implement-strstr/
 24. Z 字形变换 https://leetcode.com/problems/zigzag-conversion/
 
+## 矩阵
+
+1. 矩阵置零 https://leetcode.com/problems/set-matrix-zeroes/
+
 ## 双指针
 
 1. 验证回文串 https://leetcode.com/problems/valid-palindrome/
