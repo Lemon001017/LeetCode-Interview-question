@@ -61,6 +61,10 @@
 9. 最长连续序列 https://leetcode.com/problems/longest-consecutive-sequence/
 10. 和为 K 的子数组 https://leetcode.com/problems/continuous-subarray-sum/
 
+## 二分查找
+
+1. 搜索插入位置 https://leetcode.com/problems/search-insert-position/
+
 ## 链表
 
 1. 环形链表 https://leetcode.com/problems/linked-list-cycle/
