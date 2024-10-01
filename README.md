@@ -66,6 +66,7 @@
 1. 搜索插入位置 https://leetcode.com/problems/search-insert-position/
 2. 搜索二维矩阵 https://leetcode.cn/problems/search-a-2d-matrix/
 3. 在排序数组中查找元素的第一个和最后一个位置 https://leetcode.com/problems/search-range/
+4. 搜索旋转排序数组 https://leetcode.com/problems/search-in-rotated-sorted-array/
 
 ## 链表
 
