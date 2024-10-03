@@ -74,6 +74,7 @@
 2. 两数相加 https://leetcode.com/problems/add-two-numbers/
 3. 合并两个有序链表 https://leetcode.com/problems/merge-two-sorted-lists/
 4. 排序链表 https://leetcode.com/problems/sort-list/
+5. 随机链表的复制 https://leetcode.com/problems/copy-list-with-random-pointer/
 
 ## 栈
 
