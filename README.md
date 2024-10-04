@@ -98,6 +98,10 @@
 7. 二叉树的右视图 https://leetcode.com/problems/binary-tree-right-side-view/
 8. 二叉树中的最大路径和 https://leetcode.com/problems/binary-tree-maximum-path-sum/
 
+## 图论
+
+1. 岛屿数量 https://leetcode.com/problems/number-of-islands/
+
 ## 动态规划
 
 1. 爬楼梯 https://leetcode.com/problems/climbing-stairs/
