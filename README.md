@@ -117,3 +117,4 @@
 11. 最长公共子序列 https://leetcode.com/problems/longest-common-subsequence/
 12. 完全平方数 https://leetcode.com/problems/perfect-squares/
 13. 组合总和 Ⅳ https://leetcode.cn/problems/combination-sum-iv/
+14. 统计构造好字符串的方案数 https://leetcode.cn/problems/count-sorted-vowel-strings/
