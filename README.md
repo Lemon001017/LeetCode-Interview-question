@@ -75,6 +75,7 @@
 3. 合并两个有序链表 https://leetcode.com/problems/merge-two-sorted-lists/
 4. 排序链表 https://leetcode.com/problems/sort-list/
 5. 随机链表的复制 https://leetcode.com/problems/copy-list-with-random-pointer/
+6. LRU缓存 https://leetcode.cn/problems/lru-cache/
 
 ## 栈
 
