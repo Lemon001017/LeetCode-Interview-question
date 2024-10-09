@@ -99,6 +99,7 @@
 7. 二叉树的右视图 https://leetcode.com/problems/binary-tree-right-side-view/
 8. 二叉树中的最大路径和 https://leetcode.com/problems/binary-tree-maximum-path-sum/
 9. 将有序数组转换为二叉搜索树 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+10. 验证二叉搜索树 https://leetcode.com/problems/validate-binary-search-tree/
 
 ## 图论
 
