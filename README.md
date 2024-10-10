@@ -100,6 +100,7 @@
 8. 二叉树中的最大路径和 https://leetcode.com/problems/binary-tree-maximum-path-sum/
 9. 将有序数组转换为二叉搜索树 https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 10. 验证二叉搜索树 https://leetcode.com/problems/validate-binary-search-tree/
+11. 二叉搜索树中第 K 小的元素 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 
 ## 图论
 
