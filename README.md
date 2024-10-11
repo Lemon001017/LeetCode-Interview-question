@@ -102,6 +102,7 @@
 10. 验证二叉搜索树 https://leetcode.com/problems/validate-binary-search-tree/
 11. 二叉搜索树中第 K 小的元素 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 12. 二叉树展开为链表 https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
+13. 从前序与中序遍历序列构造二叉树 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
 
 ## 图论
 
