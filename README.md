@@ -49,6 +49,10 @@
 2. 无重复字符的最长子串 https://leetcode.com/problems/longest-substring-without-repeating-characters/
 3. 找到字符串中所有字母异位词 https://leetcode.com/problems/3sum/
 
+## 回溯
+
+1. 全排列 https://leetcode.com/problems/permutations/
+
 ## 哈希表
 
 1. 赎金信 https://leetcode.com/problems/ransom-note/
@@ -103,7 +107,10 @@
 10. 验证二叉搜索树 https://leetcode.com/problems/validate-binary-search-tree/
 11. 二叉搜索树中第 K 小的元素 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 12. 二叉树展开为链表 https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
-13. 从前序与中序遍历序列构造二叉树 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+13.
+
+从前序与中序遍历序列构造二叉树 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
 14. 路径总和 III https://leetcode.com/problems/path-sum-iii/
 15. 二叉树的最近公共祖先 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 
