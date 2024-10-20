@@ -108,11 +108,10 @@
 11. 二叉搜索树中第 K 小的元素 https://leetcode.com/problems/kth-smallest-element-in-a-bst/
 12. 二叉树展开为链表 https://leetcode.com/problems/flatten-binary-tree-to-linked-list/
 13. 实现 Trie (前缀树) https://leetcode.com/problems/implement-trie-prefix-tree/
-
-从前序与中序遍历序列构造二叉树 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
-
-14. 路径总和 III https://leetcode.com/problems/path-sum-iii/
-15. 二叉树的最近公共祖先 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+14. 从前序与中序遍历序列构造二叉树 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+15. 路径总和 III https://leetcode.com/problems/path-sum-iii/
+16. 二叉树的最近公共祖先 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
+17. 添加与搜索单词 - 数据结构设计 https://leetcode.com/problems/design-add-and-search-words-data-structure/
 
 ## 图论
 
