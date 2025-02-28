@@ -82,6 +82,7 @@
 4. 排序链表 https://leetcode.com/problems/sort-list/
 5. 随机链表的复制 https://leetcode.com/problems/copy-list-with-random-pointer/
 6. LRU缓存 https://leetcode.cn/problems/lru-cache/
+7. K个一组翻转链表 https://leetcode.com/problems/reverse-nodes-in-k-group/
 
 ## 栈
 
