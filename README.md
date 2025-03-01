@@ -139,3 +139,4 @@
 16. 统计放置房子的方式数 https://leetcode.cn/problems/number-of-ways-to-arrive-at-destination/
 17. 打家劫舍 II https://leetcode.cn/problems/house-robber-ii/
 18. 施咒的最大总伤害 https://leetcode.cn/problems/maximum-total-damage-with-spell-casting/
+19. 乘积最大子数组 https://leetcode.cn/problems/maximum-product-subarray/
