@@ -140,3 +140,4 @@
 17. 打家劫舍 II https://leetcode.cn/problems/house-robber-ii/
 18. 施咒的最大总伤害 https://leetcode.cn/problems/maximum-total-damage-with-spell-casting/
 19. 乘积最大子数组 https://leetcode.cn/problems/maximum-product-subarray/
+20. 分割等和子集 https://leetcode.cn/problems/partition-equal-subset-sum/
