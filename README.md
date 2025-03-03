@@ -119,6 +119,7 @@
 ## 图论
 
 1. 岛屿数量 https://leetcode.com/problems/number-of-islands/
+2. 腐烂的橘子 https://leetcode.com/problems/rotting-oranges/
 
 ## 动态规划
 
