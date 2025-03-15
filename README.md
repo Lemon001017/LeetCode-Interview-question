@@ -50,6 +50,7 @@
 1. 长度最小的子数组 https://leetcode.com/problems/minimum-size-subarray-sum/
 2. 无重复字符的最长子串 https://leetcode.com/problems/longest-substring-without-repeating-characters/
 3. 找到字符串中所有字母异位词 https://leetcode.com/problems/3sum/
+4. 乘积小于 K 的子数组 https://leetcode.com/problems/subarray-product-less-than-k/
 
 ## 回溯
 
