@@ -3,7 +3,7 @@ package ArrayAndString;
 import java.util.ArrayList;
 import java.util.List;
 
-public class findDuplicates {
+public class FindDuplicates {
     /**
      * 题目：找出数组中出现两次的数字
      */
