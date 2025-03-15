@@ -28,6 +28,7 @@
 24. Z 字形变换 https://leetcode.com/problems/zigzag-conversion/
 25. 最接近的三数之和 https://leetcode.com/problems/3sum-closest/
 26. 划分字母区间 https://leetcode.com/problems/partition-labels/
+27. 数组中重复的数据 https://leetcode.com/problems/find-all-duplicates-in-an-array/
 
 ## 矩阵
 
