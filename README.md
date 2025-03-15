@@ -144,3 +144,4 @@
 18. 施咒的最大总伤害 https://leetcode.cn/problems/maximum-total-damage-with-spell-casting/
 19. 乘积最大子数组 https://leetcode.cn/problems/maximum-product-subarray/
 20. 分割等和子集 https://leetcode.cn/problems/partition-equal-subset-sum/
+21. 可被三整除的最大和 https://leetcode.cn/problems/greatest-sum-divisible-by-three/description/
