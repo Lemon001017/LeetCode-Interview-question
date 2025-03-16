@@ -29,6 +29,7 @@
 25. 最接近的三数之和 https://leetcode.com/problems/3sum-closest/
 26. 划分字母区间 https://leetcode.com/problems/partition-labels/
 27. 数组中重复的数据 https://leetcode.com/problems/find-all-duplicates-in-an-array/
+28. 环形子数组的最大和 https://leetcode.cn/problems/maximum-sum-circular-subarray/
 
 ## 矩阵
 
