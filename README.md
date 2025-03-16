@@ -77,6 +77,7 @@
 3. 在排序数组中查找元素的第一个和最后一个位置 https://leetcode.com/problems/search-range/
 4. 搜索旋转排序数组 https://leetcode.com/problems/search-in-rotated-sorted-array/
 5. 寻找旋转排序数组中的最小值 https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/
+6. 寻找峰值 https://leetcode.com/problems/find-peak-element/
 
 ## 链表
 
