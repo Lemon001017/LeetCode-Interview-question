@@ -120,6 +120,7 @@
 16. 二叉树的最近公共祖先 https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
 17. 添加与搜索单词 - 数据结构设计 https://leetcode.com/problems/design-add-and-search-words-data-structure/
 18. 序列化与反序列化二叉树 https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+19. 寻找重复的子树 https://leetcode.cn/problems/find-duplicate-subtrees/
 
 ## 图论
 
